@@ -4,3 +4,5 @@ Un blog incre&iacute;ble para el curso de [Git y GitHub](https://platzi.com/curs
 > No s&eacute; qu&eacute; poner aqu&iacute;. Solo pruebo Markdown.
 
 Baiiiii :)
+
+* Creado por Estefa
