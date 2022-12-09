@@ -6,3 +6,4 @@ Un blog incre&iacute;ble para el curso de [Git y GitHub](https://platzi.com/curs
 Baiiiii :)
 
 * Creado por Estefa
+* Bai de nuevo
